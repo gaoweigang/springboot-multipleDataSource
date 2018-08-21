@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.1.xsd http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd
+          http://www.springframework.org/schema/beans  
+                        http://www.springframework.org/schema/beans/spring-beans.xsd
+                        http://www.springframework.org/schema/context  
+                        http://www.springframework.org/schema/context/spring-context.xsd
+                        http://www.springframework.org/schema/tx 
+                        http://www.springframework.org/schema/tx/spring-tx.xsd
+					    http://www.springframework.org/schema/aop 
+					    http://www.springframework.org/schema/aop/spring-aop.xsd">
+	<aop:aspectj-autoproxy proxy-target-class="false"/>				    
+	<context:annotation-config />
+	<context:component-scan base-package="com.gwg.shiro.web.controller"/>
+	<mvc:annotation-driven>
+		<mvc:message-converters>
+			<!--使用GsonConvertor 排在默认JacksonConvertor前作为application/json序列化转换器 -->
+			<!--<bean id="jsonConvertor"				class="com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter" />-->
+
+			<!--使用GsonConvertor 排在默认JacksonConvertor前作为application/json序列化转换器 -->
+			<!--<bean id="jsonConvertor"
+				  class="org.springframework.http.converter.json.GsonHttpMessageConverter" />-->
+
+			<bean class="org.springframework.http.converter.StringHttpMessageConverter" />
+			<bean class="org.springframework.http.converter.FormHttpMessageConverter"/>
+			<bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter"/>
+		</mvc:message-converters>
+	</mvc:annotation-driven>
+	<mvc:default-servlet-handler/>
+
+	<!-- 对模型视图名称的解析，即在模型视图名称添加前后缀 -->
+	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
+		<property name="prefix" value="/"/>
+		<property name="suffix" value=".html"/>
+	</bean>
+	<!--<bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+		&lt;!&ndash; 表示用来解析request请求的默认编码格式，当没有指定的时候根据Servlet规范会使用默认值ISO-8859-1 &ndash;&gt;
+		<property name="defaultEncoding" value="utf-8"></property>
+		&lt;!&ndash; 设置允许上传的最大文件大小，以字节为单位计算。当设为-1时表示无限制，默认是-1 upload size limit 31*1024*1024 &ndash;&gt;
+		<property name="maxUploadSize" value="32505856"></property>
+		&lt;!&ndash; 设置在文件上传时允许写到内存中的最大值，以字节为单位计算，默认是10240 &ndash;&gt;
+		<property name="maxInMemorySize" value="40960"></property>
+		&lt;!&ndash;推迟文件解析，先在controller中抛出文件大小异常&ndash;&gt;
+		<property name="resolveLazily" value="true"/>
+	</bean>-->
+</beans>
