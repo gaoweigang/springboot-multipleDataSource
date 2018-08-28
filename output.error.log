@@ -1,0 +1,168 @@
+[ERROR] 2018-08-27 16:33:07.547 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:07.547 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:07.548 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:07.548 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.113 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.113 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.114 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.114 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.217 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.217 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.217 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.217 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.257 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.257 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.258 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.258 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.318 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.318 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.319 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.319 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.367 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.367 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.368 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.368 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.416 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.416 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.417 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.417 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.471 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.471 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.522 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.522 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.525 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.525 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.525 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.525 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:38.933 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:38.933 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:38.934 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:38.934 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.252 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.252 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.253 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.253 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.373 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.373 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.373 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.373 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.417 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.417 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.418 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.418 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.496 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.496 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.497 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.497 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.553 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.553 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.554 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.554 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.586 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.586 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.587 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.587 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.627 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.627 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.686 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.686 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.688 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.688 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.688 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.688 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.324 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.324 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.325 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.325 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.658 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.658 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.659 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.659 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.795 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.795 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.796 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.796 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.843 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.843 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.844 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.844 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.904 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.904 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.904 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.904 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.943 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.943 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.943 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.943 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.974 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.974 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.974 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.974 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.018 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.018 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.069 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.069 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.072 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.072 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.073 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.073 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:47:31.926 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:47:31.926 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:47:31.965 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:47:31.965 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-28 17:54:07.381 [main] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter]42 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The dependencies of some of the beans in the application context form a cycle:
+
+   userController (field private com.gwg.shiro.web.service.UserService com.gwg.shiro.web.controller.UserController.userService)
+      ↓
+   userServiceImpl (field private com.gwg.shiro.web.dao.UserDao com.gwg.shiro.web.service.impl.UserServiceImpl.userDao)
+      ↓
+   userDaoImpl (field private com.gwg.shiro.web.mapper.UserMapper com.gwg.shiro.web.dao.impl.UserDaoImpl.userMapper)
+      ↓
+   userMapper defined in file [E:\shiro_workspace\springboot-multipleDataSource\target\classes\com\gwg\shiro\web\mapper\UserMapper.class]
+      ↓
+   sqlSessionFactory defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]
+┌─────┐
+|  dynamicDataSource defined in class path resource [com/gwg/shiro/web/config/jdbc/DataSourceConfig.class]
+↑     ↓
+|  dataSourceSlave defined in class path resource [com/gwg/shiro/web/config/jdbc/DataSourceConfig.class]
+↑     ↓
+|  dataSourceInitializer
+└─────┘
+
+ 
+[ERROR] 2018-08-28 17:54:07.381 [main] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter]42 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The dependencies of some of the beans in the application context form a cycle:
+
+   userController (field private com.gwg.shiro.web.service.UserService com.gwg.shiro.web.controller.UserController.userService)
+      ↓
+   userServiceImpl (field private com.gwg.shiro.web.dao.UserDao com.gwg.shiro.web.service.impl.UserServiceImpl.userDao)
+      ↓
+   userDaoImpl (field private com.gwg.shiro.web.mapper.UserMapper com.gwg.shiro.web.dao.impl.UserDaoImpl.userMapper)
+      ↓
+   userMapper defined in file [E:\shiro_workspace\springboot-multipleDataSource\target\classes\com\gwg\shiro\web\mapper\UserMapper.class]
+      ↓
+   sqlSessionFactory defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]
+┌─────┐
+|  dynamicDataSource defined in class path resource [com/gwg/shiro/web/config/jdbc/DataSourceConfig.class]
+↑     ↓
+|  dataSourceSlave defined in class path resource [com/gwg/shiro/web/config/jdbc/DataSourceConfig.class]
+↑     ↓
+|  dataSourceInitializer
+└─────┘
+
+ 

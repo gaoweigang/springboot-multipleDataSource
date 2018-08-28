@@ -2,103 +2,75 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.gwg.shiro</groupId>
-    <artifactId>shiro-web-session-sharing-spring-two</artifactId>
+    <artifactId>springboot-multipleDataSource</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <properties>
-        <spring.version>4.3.7.RELEASE</spring.version>
-    </properties>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.5.9.RELEASE</version>
+    </parent>
 
     <dependencies>
-        <!-- spring依赖 -->
+        <!-- add typical dependencies for a web application -->
         <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-core</artifactId>
-            <version>${spring.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-webmvc</artifactId>
-            <version>${spring.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-            <version>${spring.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-context-support</artifactId>
-            <version>${spring.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-aop</artifactId>
-            <version>${spring.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-aspects</artifactId>
-            <version>${spring.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-web</artifactId>
-            <version>${spring.version}</version>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-        <!-- Spring 单元测试 依赖 -->
+        <!--springBoot的aop-->
         <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-test</artifactId>
-            <version>${spring.version}</version>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-aop</artifactId>
         </dependency>
+
+        <!--Springboot的aspect-->
+
+        <!-- springboot junit单元测试 -->
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
         </dependency>
 
 
-        <!-- mybatis -->
+        <!-- 添加MyBatis依赖 -->
         <dependency>
-            <groupId>org.mybatis</groupId>
-            <artifactId>mybatis-spring</artifactId>
-            <version>1.2.5</version>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>1.2.2</version>
         </dependency>
-        <dependency>
-            <groupId>org.mybatis</groupId>
-            <artifactId>mybatis</artifactId>
-            <version>3.4.5</version>
-        </dependency>
-
         <!-- 添加MyBatis通用Mapper依赖 Spring使用 对应有org.mybaties.spring.annotation.MapperScan注解-->
-        <dependency>
+        <!--<dependency>
             <groupId>tk.mybatis</groupId>
             <artifactId>mapper</artifactId>
             <version>3.5.3</version>
+        </dependency>-->
+        <!--添加MyBatis通用mapper依赖 Springboot使用 对应有tk.mybatis.spring.annotation.MapperScan注解,
+           Spring提供的MapperScan是Spring使用的，不要用混了
+        -->
+        <dependency>
+            <groupId>tk.mybatis</groupId>
+            <artifactId>mapper-spring-boot-starter</artifactId>
+            <version>1.2.0</version>
         </dependency>
-        <!-- 分页控件 -->
+        <!--分页插件 在springboot中使用这个-->
         <dependency>
             <groupId>com.github.pagehelper</groupId>
-            <artifactId>pagehelper</artifactId>
-            <version>5.1.1</version>
+            <artifactId>pagehelper-spring-boot-starter</artifactId>
+            <version>1.2.1</version>
         </dependency>
 
-        <!-- spring data redis -->
+        <!--swagger2 它的出现就是为了方便进行测试后台的restful形式的接口-->
         <dependency>
-            <groupId>org.springframework.data</groupId>
-            <artifactId>spring-data-redis</artifactId>
-            <version>1.8.14.RELEASE</version>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+            <version>2.4.0</version>
         </dependency>
-
-        <!-- redis依赖包 -->
         <dependency>
-            <groupId>redis.clients</groupId>
-            <artifactId>jedis</artifactId>
-            <version>2.9.0</version>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger-ui</artifactId>
+            <version>2.4.0</version>
         </dependency>
-
 
         <!--添加数据库连接池druid依赖-->
         <dependency>
@@ -107,25 +79,11 @@
             <version>1.0.5</version>
         </dependency>
 
-        <!--servlet api-->
-        <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>servlet-api</artifactId>
-            <version>2.5</version>
-        </dependency>
-
         <!-- 字符串 集合 校验 -->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>3.5</version>
-        </dependency>
-
-        <!-- 集合校验 -->
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-collections4</artifactId>
-            <version>4.0</version>
         </dependency>
 
 
@@ -143,7 +101,11 @@
             <version>1.2.2</version>
         </dependency>
 
-
+        <!--springboot与redis集成-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
+        </dependency>
 
         <!--添加lomback依赖，免去setters 和getters方法-->
         <dependency>
@@ -193,4 +155,45 @@
         </dependency>
 
     </dependencies>
+
+    <build>
+        <finalName>shiro</finalName>
+        <plugins>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+            <!--使用spring-aspects.jar 的aspectj, 需要指定编织时间, 使用编译时织入.
+aspectj 是静态织入的, 也就是编译期织入、类加载期织入(LTW), 编译期织入可以采用编辑器(maven, ant)等工具, 类加载器可以通过类加载器，在类字节码加载到JVM时，织入切面. -->
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>aspectj-maven-plugin</artifactId>
+                <version>1.11</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>compile</goal>
+                            <!-- <goal>test-compile</goal> -->
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <complianceLevel>1.8</complianceLevel>
+                    <forceAjcCompile>true</forceAjcCompile>
+                    <weaveDirectories>
+                        <weaveDirectory>${project.build.outputDirectory}</weaveDirectory>
+                    </weaveDirectories>
+                    <aspectLibraries>
+                        <aspectLibrary>
+                            <groupId>org.springframework</groupId>
+                            <artifactId>spring-aspects</artifactId>
+                        </aspectLibrary>
+                    </aspectLibraries>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>

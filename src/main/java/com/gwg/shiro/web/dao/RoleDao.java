@@ -4,9 +4,6 @@ import com.github.pagehelper.PageInfo;
 import com.gwg.shiro.web.dto.RoleDto;
 import com.gwg.shiro.web.exception.BusinessException;
 import com.gwg.shiro.web.model.Role;
-import com.gwg.shiro.web.vo.RoleVo;
-
-import java.util.List;
 
 public interface RoleDao {
 

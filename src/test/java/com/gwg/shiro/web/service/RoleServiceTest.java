@@ -2,6 +2,7 @@ package com.gwg.shiro.web.service;
 
 import com.alibaba.fastjson.JSON;
 import com.github.pagehelper.PageInfo;
+import com.gwg.shiro.web.config.jdbc.DataSourceConfig;
 import com.gwg.shiro.web.dto.RoleDto;
 import com.gwg.shiro.web.exception.BusinessException;
 import com.gwg.shiro.web.model.Role;
@@ -13,14 +14,12 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
-import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration("/spring-config.xml")
+@ContextConfiguration(classes = DataSourceConfig.class)
 public class RoleServiceTest {
 
     private static final Logger logger = LoggerFactory.getLogger(RoleServiceTest.class);
@@ -40,34 +39,6 @@ public class RoleServiceTest {
     }
 
     @Test
-    public void testUpdateRole() throws BusinessException{
-        RoleDto dto = new RoleDto();
-        dto.setId(1L);
-        dto.setRoleCode("test1");
-        dto.setRoleName("测试1");
-        dto.setRemark("测试1");
-        boolean flag = roleService.updateRoleById(dto);
-        logger.info("根据id更新， 参数：{}, 结果：{}", JSON.toJSON(dto), JSON.toJSON(flag));
-    }
-
-    @Test
-    public void testQueryRoleByLimit() throws BusinessException{
-        RoleDto dto = new RoleDto();
-        dto.setPageIndex(1);
-        dto.setPageSize(2);
-        PageInfo<Role> pageInfo = roleService.queryRoleByLimit(dto);
-        logger.info("分页查询， 参数：{}, 结果：{}", JSON.toJSON(dto), JSON.toJSON(pageInfo));
-    }
-
-    @Test
-    public void testDelRole() throws BusinessException{
-        RoleDto dto = new RoleDto();
-        dto.setId(29L);
-        boolean flag  = roleService.delRoleById(dto);
-        logger.info("根据ID删除，参数：{}, 结果：{}", JSON.toJSON(dto), JSON.toJSON(flag));
-
-    }
-    @Test
     public void testQueryRoleById() throws BusinessException{
         RoleDto dto = new RoleDto();
         dto.setId(1L);
@@ -78,30 +49,6 @@ public class RoleServiceTest {
     }
 
 
-    @Test
-    public void testQueryRoleRelatedAllResById(){
-        RoleDto dto = new RoleDto();
-        dto.setId(2L);
-        RoleVo vo = roleService.queryRoleRelatedAllResById(dto);
-        logger.info("根据id查询，参数：{}, 结果：{}", JSON.toJSON(dto), JSON.toJSON(vo));
-
-    }
-
-    @Test
-    public void testGrantResources(){
-        RoleDto dto = new RoleDto();
-        dto.setId(1L);
-        dto.setRoleCode("test");
-        List<Long> idList = new ArrayList<Long>();
-        idList.add(14L);
-        idList.add(15L);
-        idList.add(17L);
-        idList.add(18L);
-
-        dto.setResourceIdList(idList);
-        roleService.grantResources(dto);
-        logger.info("根据id查询，参数：{}, 结果：{}", JSON.toJSON(dto));
-    }
 
 
 }

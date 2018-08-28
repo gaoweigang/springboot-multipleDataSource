@@ -1,0 +1,301 @@
+[INFO] 2018-08-27 16:10:19.986 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]83 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:21:48.888 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]83 - dataSourceMaster driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 16:21:49.006 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]109 - dataSourceSlaver driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 16:26:40.735 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]84 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:27:28.648 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]84 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:32:37.564 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:07.513 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:07.548 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.113 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.114 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.216 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.217 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.256 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.257 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.318 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.318 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.367 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.368 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.415 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.416 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.470 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.522 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.524 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:33:08.525 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:38.895 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:38.933 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.252 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.253 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.372 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.373 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.417 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.418 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.495 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.496 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.553 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.554 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.586 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.587 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.626 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.685 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.688 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:35:39.688 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.289 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.324 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.657 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.659 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.794 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.795 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.842 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.843 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.904 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.904 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.942 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.943 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.974 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:18.974 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:19.017 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:19.069 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:19.072 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:37:19.073 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:47:31.898 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]97 - dataSourceMaster driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:47:31.965 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]123 - dataSourceSlaver driverClassName:null, dburl:null, username:null, password:null 
+[INFO] 2018-08-27 16:49:08.615 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]90 - dataSourceMaster driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 16:49:08.677 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]116 - dataSourceSlaver driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:19:34.396 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]90 - dataSourceMaster driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:19:34.528 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]116 - dataSourceSlaver driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:20:30.819 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]91 - dataSourceMaster driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:20:30.912 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]117 - dataSourceSlaver driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:23:05.147 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]91 - dataSourceMaster driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:23:05.264 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]117 - dataSourceSlaver driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:24:05.195 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]91 - dataSourceMaster driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:24:05.333 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]117 - dataSourceSlaver driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:24:38.739 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]91 - dataSourceMaster driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:24:38.819 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]117 - dataSourceSlaver driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:26:19.398 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]91 - dataSourceMaster driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-27 17:26:34.650 [main] [com.gwg.shiro.web.config.jdbc.DataSourceConfig]117 - dataSourceSlaver driverClassName:com.mysql.jdbc.Driver, dburl:jdbc:mysql://127.0.0.1:3306/zkmkt?useUnicode=true&characterEncoding=gbk&autoReconnect=true&allowMultiQueries=true, username:root, password:123456 
+[INFO] 2018-08-28 17:54:03.394 [main] [org.springframework.boot.StartupInfoLogger]48 - Starting Application on DESKTOP-6OE57TT with PID 24308 (E:\shiro_workspace\springboot-multipleDataSource\target\classes started by hp in E:\shiro_workspace\springboot-multipleDataSource) 
+[INFO] 2018-08-28 17:54:03.397 [main] [org.springframework.boot.SpringApplication]593 - No active profile set, falling back to default profiles: default 
+[INFO] 2018-08-28 17:54:03.502 [main] [org.springframework.context.support.AbstractApplicationContext]583 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@72437d8d: startup date [Tue Aug 28 17:54:03 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 17:54:03.889 [background-preinit] [org.hibernate.validator.internal.util.Version]30 - HV000001: Hibernate Validator 5.3.6.Final 
+[INFO] 2018-08-28 17:54:04.665 [main] [org.springframework.data.repository.config.RepositoryConfigurationDelegate]165 - Multiple Spring Data modules found, entering strict repository configuration mode! 
+[INFO] 2018-08-28 17:54:06.133 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]89 - Tomcat initialized with port(s): 8088 (http) 
+[INFO] 2018-08-28 17:54:06.151 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting service [Tomcat] 
+[INFO] 2018-08-28 17:54:06.153 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting Servlet Engine: Apache Tomcat/8.5.23 
+[INFO] 2018-08-28 17:54:06.354 [localhost-startStop-1] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring embedded WebApplicationContext 
+[INFO] 2018-08-28 17:54:06.354 [localhost-startStop-1] [org.springframework.boot.context.embedded.EmbeddedWebApplicationContext]276 - Root WebApplicationContext: initialization completed in 2859 ms 
+[INFO] 2018-08-28 17:54:06.565 [localhost-startStop-1] [org.springframework.boot.web.servlet.ServletRegistrationBean]190 - Mapping servlet: 'dispatcherServlet' to [/] 
+[INFO] 2018-08-28 17:54:06.569 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'characterEncodingFilter' to: [/*] 
+[INFO] 2018-08-28 17:54:06.570 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*] 
+[INFO] 2018-08-28 17:54:06.570 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'httpPutFormContentFilter' to: [/*] 
+[INFO] 2018-08-28 17:54:06.570 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'requestContextFilter' to: [/*] 
+[INFO] 2018-08-28 17:54:07.345 [main] [org.apache.juli.logging.DirectJDKLog]179 - Stopping service [Tomcat] 
+[INFO] 2018-08-28 17:54:07.373 [main] [org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer]101 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled. 
+[INFO] 2018-08-28 17:55:58.067 [main] [org.springframework.boot.StartupInfoLogger]48 - Starting Application on DESKTOP-6OE57TT with PID 16164 (E:\shiro_workspace\springboot-multipleDataSource\target\classes started by hp in E:\shiro_workspace\springboot-multipleDataSource) 
+[INFO] 2018-08-28 17:55:58.071 [main] [org.springframework.boot.SpringApplication]593 - No active profile set, falling back to default profiles: default 
+[INFO] 2018-08-28 17:55:58.205 [main] [org.springframework.context.support.AbstractApplicationContext]583 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@72437d8d: startup date [Tue Aug 28 17:55:58 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 17:55:58.531 [background-preinit] [org.hibernate.validator.internal.util.Version]30 - HV000001: Hibernate Validator 5.3.6.Final 
+[INFO] 2018-08-28 17:55:59.263 [main] [org.springframework.data.repository.config.RepositoryConfigurationDelegate]165 - Multiple Spring Data modules found, entering strict repository configuration mode! 
+[INFO] 2018-08-28 17:56:00.589 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]89 - Tomcat initialized with port(s): 8088 (http) 
+[INFO] 2018-08-28 17:56:00.613 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting service [Tomcat] 
+[INFO] 2018-08-28 17:56:00.615 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting Servlet Engine: Apache Tomcat/8.5.23 
+[INFO] 2018-08-28 17:56:00.764 [localhost-startStop-1] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring embedded WebApplicationContext 
+[INFO] 2018-08-28 17:56:00.764 [localhost-startStop-1] [org.springframework.boot.context.embedded.EmbeddedWebApplicationContext]276 - Root WebApplicationContext: initialization completed in 2566 ms 
+[INFO] 2018-08-28 17:56:00.990 [localhost-startStop-1] [org.springframework.boot.web.servlet.ServletRegistrationBean]190 - Mapping servlet: 'dispatcherServlet' to [/] 
+[INFO] 2018-08-28 17:56:00.996 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'characterEncodingFilter' to: [/*] 
+[INFO] 2018-08-28 17:56:00.997 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*] 
+[INFO] 2018-08-28 17:56:00.997 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'httpPutFormContentFilter' to: [/*] 
+[INFO] 2018-08-28 17:56:00.997 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'requestContextFilter' to: [/*] 
+[INFO] 2018-08-28 17:56:04.833 [main] [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]534 - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@72437d8d: startup date [Tue Aug 28 17:55:58 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 17:56:04.942 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/addUser],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.addUser(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 17:56:04.943 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/queryUserInfoById],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.queryUserInfoById(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 17:56:04.946 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest) 
+[INFO] 2018-08-28 17:56:04.946 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) 
+[INFO] 2018-08-28 17:56:04.982 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 17:56:04.983 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 17:56:05.033 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 17:56:05.347 [main] [redis.clients.jedis.JedisSentinelPool]136 - Trying to find master from available Sentinels... 
+[INFO] 2018-08-28 17:56:05.392 [main] [redis.clients.jedis.JedisSentinelPool]185 - Redis master running at 192.168.13.62:6382, starting Sentinel listeners... 
+[INFO] 2018-08-28 17:56:05.411 [main] [redis.clients.jedis.JedisSentinelPool]127 - Created JedisPool to master at 192.168.13.62:6382 
+[INFO] 2018-08-28 17:56:05.934 [main] [org.springframework.jmx.export.MBeanExporter]431 - Registering beans for JMX exposure on startup 
+[INFO] 2018-08-28 17:56:05.951 [main] [org.apache.juli.logging.DirectJDKLog]179 - Initializing ProtocolHandler ["http-nio-8088"] 
+[INFO] 2018-08-28 17:56:05.974 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting ProtocolHandler ["http-nio-8088"] 
+[INFO] 2018-08-28 17:56:05.991 [main] [org.apache.juli.logging.DirectJDKLog]179 - Using a shared selector for servlet write/read 
+[INFO] 2018-08-28 17:56:06.014 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]201 - Tomcat started on port(s): 8088 (http) 
+[INFO] 2018-08-28 17:56:06.020 [main] [org.springframework.boot.StartupInfoLogger]57 - Started Application in 8.756 seconds (JVM running for 9.578) 
+[INFO] 2018-08-28 17:56:30.775 [http-nio-8088-exec-2] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring FrameworkServlet 'dispatcherServlet' 
+[INFO] 2018-08-28 17:56:30.776 [http-nio-8088-exec-2] [org.springframework.web.servlet.FrameworkServlet]489 - FrameworkServlet 'dispatcherServlet': initialization started 
+[INFO] 2018-08-28 17:56:30.802 [http-nio-8088-exec-2] [org.springframework.web.servlet.FrameworkServlet]508 - FrameworkServlet 'dispatcherServlet': initialization completed in 26 ms 
+[INFO] 2018-08-28 18:07:53.058 [main] [org.springframework.boot.StartupInfoLogger]48 - Starting Application on DESKTOP-6OE57TT with PID 19352 (E:\shiro_workspace\springboot-multipleDataSource\target\classes started by hp in E:\shiro_workspace\springboot-multipleDataSource) 
+[INFO] 2018-08-28 18:07:53.066 [main] [org.springframework.boot.SpringApplication]593 - No active profile set, falling back to default profiles: default 
+[INFO] 2018-08-28 18:07:53.171 [main] [org.springframework.context.support.AbstractApplicationContext]583 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7e4204e2: startup date [Tue Aug 28 18:07:53 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 18:07:53.606 [background-preinit] [org.hibernate.validator.internal.util.Version]30 - HV000001: Hibernate Validator 5.3.6.Final 
+[INFO] 2018-08-28 18:07:54.325 [main] [org.springframework.data.repository.config.RepositoryConfigurationDelegate]165 - Multiple Spring Data modules found, entering strict repository configuration mode! 
+[INFO] 2018-08-28 18:07:55.745 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]89 - Tomcat initialized with port(s): 8080 (http) 
+[INFO] 2018-08-28 18:07:55.763 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting service [Tomcat] 
+[INFO] 2018-08-28 18:07:55.764 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting Servlet Engine: Apache Tomcat/8.5.23 
+[INFO] 2018-08-28 18:07:55.967 [localhost-startStop-1] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring embedded WebApplicationContext 
+[INFO] 2018-08-28 18:07:55.968 [localhost-startStop-1] [org.springframework.boot.context.embedded.EmbeddedWebApplicationContext]276 - Root WebApplicationContext: initialization completed in 2801 ms 
+[INFO] 2018-08-28 18:07:56.165 [localhost-startStop-1] [org.springframework.boot.web.servlet.ServletRegistrationBean]190 - Mapping servlet: 'dispatcherServlet' to [/] 
+[INFO] 2018-08-28 18:07:56.170 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'characterEncodingFilter' to: [/*] 
+[INFO] 2018-08-28 18:07:56.171 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*] 
+[INFO] 2018-08-28 18:07:56.171 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'httpPutFormContentFilter' to: [/*] 
+[INFO] 2018-08-28 18:07:56.171 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'requestContextFilter' to: [/*] 
+[INFO] 2018-08-28 18:08:04.720 [main] [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]534 - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7e4204e2: startup date [Tue Aug 28 18:07:53 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 18:08:04.831 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/queryUserInfoById],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.queryUserInfoById(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 18:08:04.832 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/addUser],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.addUser(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 18:08:04.837 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest) 
+[INFO] 2018-08-28 18:08:04.838 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) 
+[INFO] 2018-08-28 18:08:04.900 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:08:04.900 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:08:04.986 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:08:05.255 [main] [redis.clients.jedis.JedisSentinelPool]136 - Trying to find master from available Sentinels... 
+[INFO] 2018-08-28 18:08:05.294 [main] [redis.clients.jedis.JedisSentinelPool]185 - Redis master running at 192.168.13.62:6382, starting Sentinel listeners... 
+[INFO] 2018-08-28 18:08:05.315 [main] [redis.clients.jedis.JedisSentinelPool]127 - Created JedisPool to master at 192.168.13.62:6382 
+[INFO] 2018-08-28 18:08:05.872 [main] [org.springframework.jmx.export.MBeanExporter]431 - Registering beans for JMX exposure on startup 
+[INFO] 2018-08-28 18:08:05.890 [main] [org.apache.juli.logging.DirectJDKLog]179 - Initializing ProtocolHandler ["http-nio-8080"] 
+[INFO] 2018-08-28 18:08:05.908 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting ProtocolHandler ["http-nio-8080"] 
+[INFO] 2018-08-28 18:08:05.921 [main] [org.apache.juli.logging.DirectJDKLog]179 - Using a shared selector for servlet write/read 
+[INFO] 2018-08-28 18:08:05.941 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]201 - Tomcat started on port(s): 8080 (http) 
+[INFO] 2018-08-28 18:08:05.947 [main] [org.springframework.boot.StartupInfoLogger]57 - Started Application in 13.485 seconds (JVM running for 14.229) 
+[INFO] 2018-08-28 18:08:23.227 [http-nio-8080-exec-2] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring FrameworkServlet 'dispatcherServlet' 
+[INFO] 2018-08-28 18:08:23.228 [http-nio-8080-exec-2] [org.springframework.web.servlet.FrameworkServlet]489 - FrameworkServlet 'dispatcherServlet': initialization started 
+[INFO] 2018-08-28 18:08:23.256 [http-nio-8080-exec-2] [org.springframework.web.servlet.FrameworkServlet]508 - FrameworkServlet 'dispatcherServlet': initialization completed in 28 ms 
+[INFO] 2018-08-28 18:08:23.379 [http-nio-8080-exec-2] [com.gwg.shiro.web.config.jdbc.MultipleDataSourceAspectAdvice]63 - beforeRead，mapper里各个方法的参数：com.gwg.shiro.web.model.UserExample@62bbc94 
+[INFO] 2018-08-28 18:09:01.388 [main] [org.springframework.boot.StartupInfoLogger]48 - Starting Application on DESKTOP-6OE57TT with PID 12432 (E:\shiro_workspace\springboot-multipleDataSource\target\classes started by hp in E:\shiro_workspace\springboot-multipleDataSource) 
+[INFO] 2018-08-28 18:09:01.392 [main] [org.springframework.boot.SpringApplication]593 - No active profile set, falling back to default profiles: default 
+[INFO] 2018-08-28 18:09:01.538 [main] [org.springframework.context.support.AbstractApplicationContext]583 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7e4204e2: startup date [Tue Aug 28 18:09:01 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 18:09:01.868 [background-preinit] [org.hibernate.validator.internal.util.Version]30 - HV000001: Hibernate Validator 5.3.6.Final 
+[INFO] 2018-08-28 18:09:02.479 [main] [org.springframework.data.repository.config.RepositoryConfigurationDelegate]165 - Multiple Spring Data modules found, entering strict repository configuration mode! 
+[INFO] 2018-08-28 18:09:03.828 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]89 - Tomcat initialized with port(s): 8080 (http) 
+[INFO] 2018-08-28 18:09:03.849 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting service [Tomcat] 
+[INFO] 2018-08-28 18:09:03.851 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting Servlet Engine: Apache Tomcat/8.5.23 
+[INFO] 2018-08-28 18:09:04.046 [localhost-startStop-1] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring embedded WebApplicationContext 
+[INFO] 2018-08-28 18:09:04.046 [localhost-startStop-1] [org.springframework.boot.context.embedded.EmbeddedWebApplicationContext]276 - Root WebApplicationContext: initialization completed in 2514 ms 
+[INFO] 2018-08-28 18:09:04.268 [localhost-startStop-1] [org.springframework.boot.web.servlet.ServletRegistrationBean]190 - Mapping servlet: 'dispatcherServlet' to [/] 
+[INFO] 2018-08-28 18:09:04.273 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'characterEncodingFilter' to: [/*] 
+[INFO] 2018-08-28 18:09:04.274 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*] 
+[INFO] 2018-08-28 18:09:04.275 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'httpPutFormContentFilter' to: [/*] 
+[INFO] 2018-08-28 18:09:04.275 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'requestContextFilter' to: [/*] 
+[INFO] 2018-08-28 18:09:05.668 [main] [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]534 - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7e4204e2: startup date [Tue Aug 28 18:09:01 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 18:09:05.788 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/queryUserInfoById],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.queryUserInfoById(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 18:09:05.790 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/addUser],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.addUser(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 18:09:05.797 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest) 
+[INFO] 2018-08-28 18:09:05.798 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) 
+[INFO] 2018-08-28 18:09:05.848 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:09:05.848 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:09:05.918 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:09:06.174 [main] [redis.clients.jedis.JedisSentinelPool]136 - Trying to find master from available Sentinels... 
+[INFO] 2018-08-28 18:09:06.235 [main] [redis.clients.jedis.JedisSentinelPool]185 - Redis master running at 192.168.13.62:6382, starting Sentinel listeners... 
+[INFO] 2018-08-28 18:09:06.257 [main] [redis.clients.jedis.JedisSentinelPool]127 - Created JedisPool to master at 192.168.13.62:6382 
+[INFO] 2018-08-28 18:09:06.748 [main] [org.springframework.jmx.export.MBeanExporter]431 - Registering beans for JMX exposure on startup 
+[INFO] 2018-08-28 18:09:06.766 [main] [org.apache.juli.logging.DirectJDKLog]179 - Initializing ProtocolHandler ["http-nio-8080"] 
+[INFO] 2018-08-28 18:09:06.784 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting ProtocolHandler ["http-nio-8080"] 
+[INFO] 2018-08-28 18:09:06.800 [main] [org.apache.juli.logging.DirectJDKLog]179 - Using a shared selector for servlet write/read 
+[INFO] 2018-08-28 18:09:06.828 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]201 - Tomcat started on port(s): 8080 (http) 
+[INFO] 2018-08-28 18:09:06.835 [main] [org.springframework.boot.StartupInfoLogger]57 - Started Application in 6.087 seconds (JVM running for 6.805) 
+[INFO] 2018-08-28 18:09:22.501 [http-nio-8080-exec-1] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring FrameworkServlet 'dispatcherServlet' 
+[INFO] 2018-08-28 18:09:22.501 [http-nio-8080-exec-1] [org.springframework.web.servlet.FrameworkServlet]489 - FrameworkServlet 'dispatcherServlet': initialization started 
+[INFO] 2018-08-28 18:09:22.531 [http-nio-8080-exec-1] [org.springframework.web.servlet.FrameworkServlet]508 - FrameworkServlet 'dispatcherServlet': initialization completed in 29 ms 
+[INFO] 2018-08-28 18:09:22.664 [http-nio-8080-exec-1] [com.gwg.shiro.web.config.jdbc.MultipleDataSourceAspectAdvice]63 - beforeRead，mapper里各个方法的参数：com.gwg.shiro.web.model.UserExample@44599dc6 
+[INFO] 2018-08-28 18:14:12.909 [main] [org.springframework.boot.StartupInfoLogger]48 - Starting Application on DESKTOP-6OE57TT with PID 19580 (E:\shiro_workspace\springboot-multipleDataSource\target\classes started by hp in E:\shiro_workspace\springboot-multipleDataSource) 
+[INFO] 2018-08-28 18:14:12.917 [main] [org.springframework.boot.SpringApplication]593 - No active profile set, falling back to default profiles: default 
+[INFO] 2018-08-28 18:14:13.099 [main] [org.springframework.context.support.AbstractApplicationContext]583 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7e4204e2: startup date [Tue Aug 28 18:14:13 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 18:14:13.503 [background-preinit] [org.hibernate.validator.internal.util.Version]30 - HV000001: Hibernate Validator 5.3.6.Final 
+[INFO] 2018-08-28 18:14:14.232 [main] [org.springframework.data.repository.config.RepositoryConfigurationDelegate]165 - Multiple Spring Data modules found, entering strict repository configuration mode! 
+[INFO] 2018-08-28 18:14:16.020 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]89 - Tomcat initialized with port(s): 8080 (http) 
+[INFO] 2018-08-28 18:14:16.039 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting service [Tomcat] 
+[INFO] 2018-08-28 18:14:16.041 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting Servlet Engine: Apache Tomcat/8.5.23 
+[INFO] 2018-08-28 18:14:16.224 [localhost-startStop-1] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring embedded WebApplicationContext 
+[INFO] 2018-08-28 18:14:16.224 [localhost-startStop-1] [org.springframework.boot.context.embedded.EmbeddedWebApplicationContext]276 - Root WebApplicationContext: initialization completed in 3131 ms 
+[INFO] 2018-08-28 18:14:16.540 [localhost-startStop-1] [org.springframework.boot.web.servlet.ServletRegistrationBean]190 - Mapping servlet: 'dispatcherServlet' to [/] 
+[INFO] 2018-08-28 18:14:16.547 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'characterEncodingFilter' to: [/*] 
+[INFO] 2018-08-28 18:14:16.548 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*] 
+[INFO] 2018-08-28 18:14:16.549 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'httpPutFormContentFilter' to: [/*] 
+[INFO] 2018-08-28 18:14:16.549 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'requestContextFilter' to: [/*] 
+[INFO] 2018-08-28 18:14:18.287 [main] [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]534 - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7e4204e2: startup date [Tue Aug 28 18:14:13 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 18:14:18.437 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/queryUserInfoById],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.queryUserInfoById(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 18:14:18.439 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/addUser],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.addUser(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 18:14:18.446 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest) 
+[INFO] 2018-08-28 18:14:18.448 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) 
+[INFO] 2018-08-28 18:14:18.515 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:14:18.515 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:14:18.612 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:14:18.957 [main] [redis.clients.jedis.JedisSentinelPool]136 - Trying to find master from available Sentinels... 
+[INFO] 2018-08-28 18:14:19.055 [main] [redis.clients.jedis.JedisSentinelPool]185 - Redis master running at 192.168.13.62:6382, starting Sentinel listeners... 
+[INFO] 2018-08-28 18:14:19.102 [main] [redis.clients.jedis.JedisSentinelPool]127 - Created JedisPool to master at 192.168.13.62:6382 
+[INFO] 2018-08-28 18:14:19.816 [main] [org.springframework.jmx.export.MBeanExporter]431 - Registering beans for JMX exposure on startup 
+[INFO] 2018-08-28 18:14:19.856 [main] [org.apache.juli.logging.DirectJDKLog]179 - Initializing ProtocolHandler ["http-nio-8080"] 
+[INFO] 2018-08-28 18:14:19.885 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting ProtocolHandler ["http-nio-8080"] 
+[INFO] 2018-08-28 18:14:19.912 [main] [org.apache.juli.logging.DirectJDKLog]179 - Using a shared selector for servlet write/read 
+[INFO] 2018-08-28 18:14:19.945 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]201 - Tomcat started on port(s): 8080 (http) 
+[INFO] 2018-08-28 18:14:19.956 [main] [org.springframework.boot.StartupInfoLogger]57 - Started Application in 8.22 seconds (JVM running for 9.565) 
+[INFO] 2018-08-28 18:50:30.474 [main] [org.springframework.boot.StartupInfoLogger]48 - Starting Application on DESKTOP-6OE57TT with PID 10592 (E:\shiro_workspace\springboot-multipleDataSource\target\classes started by hp in E:\shiro_workspace\springboot-multipleDataSource) 
+[INFO] 2018-08-28 18:50:30.484 [main] [org.springframework.boot.SpringApplication]593 - No active profile set, falling back to default profiles: default 
+[INFO] 2018-08-28 18:50:30.629 [main] [org.springframework.context.support.AbstractApplicationContext]583 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7e4204e2: startup date [Tue Aug 28 18:50:30 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 18:50:31.041 [background-preinit] [org.hibernate.validator.internal.util.Version]30 - HV000001: Hibernate Validator 5.3.6.Final 
+[INFO] 2018-08-28 18:50:32.024 [main] [org.springframework.data.repository.config.RepositoryConfigurationDelegate]165 - Multiple Spring Data modules found, entering strict repository configuration mode! 
+[INFO] 2018-08-28 18:50:33.727 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]89 - Tomcat initialized with port(s): 8080 (http) 
+[INFO] 2018-08-28 18:50:33.749 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting service [Tomcat] 
+[INFO] 2018-08-28 18:50:33.751 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting Servlet Engine: Apache Tomcat/8.5.23 
+[INFO] 2018-08-28 18:50:33.938 [localhost-startStop-1] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring embedded WebApplicationContext 
+[INFO] 2018-08-28 18:50:33.938 [localhost-startStop-1] [org.springframework.boot.context.embedded.EmbeddedWebApplicationContext]276 - Root WebApplicationContext: initialization completed in 3315 ms 
+[INFO] 2018-08-28 18:50:34.202 [localhost-startStop-1] [org.springframework.boot.web.servlet.ServletRegistrationBean]190 - Mapping servlet: 'dispatcherServlet' to [/] 
+[INFO] 2018-08-28 18:50:34.206 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'characterEncodingFilter' to: [/*] 
+[INFO] 2018-08-28 18:50:34.207 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*] 
+[INFO] 2018-08-28 18:50:34.208 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'httpPutFormContentFilter' to: [/*] 
+[INFO] 2018-08-28 18:50:34.208 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'requestContextFilter' to: [/*] 
+[INFO] 2018-08-28 18:50:35.867 [main] [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]534 - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7e4204e2: startup date [Tue Aug 28 18:50:30 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 18:50:35.988 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/queryUserInfoById],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.queryUserInfoById(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 18:50:35.990 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/addUser],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.addUser(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 18:50:35.997 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest) 
+[INFO] 2018-08-28 18:50:35.998 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) 
+[INFO] 2018-08-28 18:50:36.051 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:50:36.051 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:50:36.129 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:50:36.430 [main] [redis.clients.jedis.JedisSentinelPool]136 - Trying to find master from available Sentinels... 
+[INFO] 2018-08-28 18:50:36.478 [main] [redis.clients.jedis.JedisSentinelPool]185 - Redis master running at 192.168.13.62:6382, starting Sentinel listeners... 
+[INFO] 2018-08-28 18:50:36.502 [main] [redis.clients.jedis.JedisSentinelPool]127 - Created JedisPool to master at 192.168.13.62:6382 
+[INFO] 2018-08-28 18:50:37.189 [main] [org.springframework.jmx.export.MBeanExporter]431 - Registering beans for JMX exposure on startup 
+[INFO] 2018-08-28 18:50:37.215 [main] [org.apache.juli.logging.DirectJDKLog]179 - Initializing ProtocolHandler ["http-nio-8080"] 
+[INFO] 2018-08-28 18:50:37.231 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting ProtocolHandler ["http-nio-8080"] 
+[INFO] 2018-08-28 18:50:37.247 [main] [org.apache.juli.logging.DirectJDKLog]179 - Using a shared selector for servlet write/read 
+[INFO] 2018-08-28 18:50:37.276 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]201 - Tomcat started on port(s): 8080 (http) 
+[INFO] 2018-08-28 18:50:37.282 [main] [org.springframework.boot.StartupInfoLogger]57 - Started Application in 7.876 seconds (JVM running for 8.883) 
+[INFO] 2018-08-28 18:52:00.845 [main] [org.springframework.boot.StartupInfoLogger]48 - Starting Application on DESKTOP-6OE57TT with PID 15420 (E:\shiro_workspace\springboot-multipleDataSource\target\classes started by hp in E:\shiro_workspace\springboot-multipleDataSource) 
+[INFO] 2018-08-28 18:52:00.851 [main] [org.springframework.boot.SpringApplication]593 - No active profile set, falling back to default profiles: default 
+[INFO] 2018-08-28 18:52:01.006 [main] [org.springframework.context.support.AbstractApplicationContext]583 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7e4204e2: startup date [Tue Aug 28 18:52:00 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 18:52:01.463 [background-preinit] [org.hibernate.validator.internal.util.Version]30 - HV000001: Hibernate Validator 5.3.6.Final 
+[INFO] 2018-08-28 18:52:02.303 [main] [org.springframework.data.repository.config.RepositoryConfigurationDelegate]165 - Multiple Spring Data modules found, entering strict repository configuration mode! 
+[INFO] 2018-08-28 18:52:03.922 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]89 - Tomcat initialized with port(s): 8080 (http) 
+[INFO] 2018-08-28 18:52:03.946 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting service [Tomcat] 
+[INFO] 2018-08-28 18:52:03.948 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting Servlet Engine: Apache Tomcat/8.5.23 
+[INFO] 2018-08-28 18:52:04.183 [localhost-startStop-1] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring embedded WebApplicationContext 
+[INFO] 2018-08-28 18:52:04.183 [localhost-startStop-1] [org.springframework.boot.context.embedded.EmbeddedWebApplicationContext]276 - Root WebApplicationContext: initialization completed in 3184 ms 
+[INFO] 2018-08-28 18:52:04.508 [localhost-startStop-1] [org.springframework.boot.web.servlet.ServletRegistrationBean]190 - Mapping servlet: 'dispatcherServlet' to [/] 
+[INFO] 2018-08-28 18:52:04.513 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'characterEncodingFilter' to: [/*] 
+[INFO] 2018-08-28 18:52:04.515 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*] 
+[INFO] 2018-08-28 18:52:04.515 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'httpPutFormContentFilter' to: [/*] 
+[INFO] 2018-08-28 18:52:04.516 [localhost-startStop-1] [org.springframework.boot.web.servlet.AbstractFilterRegistrationBean]258 - Mapping filter: 'requestContextFilter' to: [/*] 
+[INFO] 2018-08-28 18:52:06.152 [main] [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]534 - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7e4204e2: startup date [Tue Aug 28 18:52:00 CST 2018]; root of context hierarchy 
+[INFO] 2018-08-28 18:52:06.273 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/queryUserInfoById],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.queryUserInfoById(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 18:52:06.274 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/addUser],methods=[POST]}" onto public com.gwg.shiro.web.common.Result com.gwg.shiro.web.controller.UserController.addUser(com.gwg.shiro.web.dto.UserDto) 
+[INFO] 2018-08-28 18:52:06.278 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest) 
+[INFO] 2018-08-28 18:52:06.279 [main] [org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry]543 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) 
+[INFO] 2018-08-28 18:52:06.316 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:52:06.316 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:52:06.366 [main] [org.springframework.web.servlet.handler.AbstractUrlHandlerMapping]362 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+[INFO] 2018-08-28 18:52:06.673 [main] [redis.clients.jedis.JedisSentinelPool]136 - Trying to find master from available Sentinels... 
+[INFO] 2018-08-28 18:52:06.733 [main] [redis.clients.jedis.JedisSentinelPool]185 - Redis master running at 192.168.13.62:6382, starting Sentinel listeners... 
+[INFO] 2018-08-28 18:52:06.760 [main] [redis.clients.jedis.JedisSentinelPool]127 - Created JedisPool to master at 192.168.13.62:6382 
+[INFO] 2018-08-28 18:52:07.362 [main] [org.springframework.jmx.export.MBeanExporter]431 - Registering beans for JMX exposure on startup 
+[INFO] 2018-08-28 18:52:07.387 [main] [org.apache.juli.logging.DirectJDKLog]179 - Initializing ProtocolHandler ["http-nio-8080"] 
+[INFO] 2018-08-28 18:52:07.405 [main] [org.apache.juli.logging.DirectJDKLog]179 - Starting ProtocolHandler ["http-nio-8080"] 
+[INFO] 2018-08-28 18:52:07.423 [main] [org.apache.juli.logging.DirectJDKLog]179 - Using a shared selector for servlet write/read 
+[INFO] 2018-08-28 18:52:07.454 [main] [org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer]201 - Tomcat started on port(s): 8080 (http) 
+[INFO] 2018-08-28 18:52:07.461 [main] [org.springframework.boot.StartupInfoLogger]57 - Started Application in 7.5 seconds (JVM running for 8.823) 
+[INFO] 2018-08-28 18:54:25.308 [http-nio-8080-exec-1] [org.apache.juli.logging.DirectJDKLog]179 - Initializing Spring FrameworkServlet 'dispatcherServlet' 
+[INFO] 2018-08-28 18:54:25.309 [http-nio-8080-exec-1] [org.springframework.web.servlet.FrameworkServlet]489 - FrameworkServlet 'dispatcherServlet': initialization started 
+[INFO] 2018-08-28 18:54:25.344 [http-nio-8080-exec-1] [org.springframework.web.servlet.FrameworkServlet]508 - FrameworkServlet 'dispatcherServlet': initialization completed in 35 ms 

@@ -1,21 +1,27 @@
 package com.gwg.shiro.web.mapper;
 
-import com.gwg.shiro.web.dto.UserDto;
-import com.gwg.shiro.web.exception.BusinessException;
 import com.gwg.shiro.web.model.User;
-import com.gwg.shiro.web.vo.UserVo;
-import tk.mybatis.mapper.common.Mapper;
-
+import com.gwg.shiro.web.model.UserExample;
 import java.util.List;
+import org.apache.ibatis.annotations.Param;
 
-public interface UserMapper extends Mapper<User> {
+public interface UserMapper {
 
-    /**
-     * 根据条件分页查询用户信息
-     * @param dto
-     * @return
-     */
-    public List<UserVo> queryUserInfo(UserDto dto) throws BusinessException;
+    int countByExample(UserExample example);
 
+    int insert(User record);
 
+    int insertSelective(User record);
+
+    List<User> selectByExample(UserExample example);
+
+    User selectByPrimaryKey(Long id);
+
+    int updateByExampleSelective(@Param("record") User record, @Param("example") UserExample example);
+
+    int updateByExample(@Param("record") User record, @Param("example") UserExample example);
+
+    int updateByPrimaryKeySelective(User record);
+
+    int updateByPrimaryKey(User record);
 }

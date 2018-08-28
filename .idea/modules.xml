@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/shiro-web-session-sharing-spring.iml" filepath="$PROJECT_DIR$/shiro-web-session-sharing-spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shiro-web-session-sharing-spring-two.iml" filepath="$PROJECT_DIR$/shiro-web-session-sharing-spring-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-multipleDataSource.iml" filepath="$PROJECT_DIR$/springboot-multipleDataSource.iml" />
     </modules>
   </component>
 </project>
