@@ -4,6 +4,7 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
+import org.springframework.cglib.core.DebuggingClassWriter;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 //因为我是在DataSourceConfig中自己配置的数据源，因此在此排查SpringBoot自动配置数据源
@@ -14,10 +15,12 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
  * 如果使用Cglib来生成代理对象，需要指定需要指定编织时间，在这里使用静态织入，即编译时织入
  * 如果使用maven来构建项目，主要在maven中配置即可
  */
-@EnableAspectJAutoProxy(proxyTargetClass = true)//在
+@EnableAspectJAutoProxy(proxyTargetClass = true)//在Springboot中，AOP默认是开启的，具体可以看该注解配置
 public class Application {
 
     public static void main(String[] args) {
+        System.setProperty(DebuggingClassWriter.DEBUG_LOCATION_PROPERTY, "E:\\class");  //该设置用于输出cglib动态代理产生的类
+        System.getProperties().put("sun.misc.ProxyGenerator.saveGeneratedFiles", "true");   //该设置用于输出jdk动态代理产生的类，输出路径为当前项目下面
         SpringApplication.run(Application.class, args);
     }
 }
