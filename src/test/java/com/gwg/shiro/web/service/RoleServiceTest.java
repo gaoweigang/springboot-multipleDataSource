@@ -2,24 +2,34 @@ package com.gwg.shiro.web.service;
 
 import com.alibaba.fastjson.JSON;
 import com.github.pagehelper.PageInfo;
+import com.gwg.shiro.web.Application;
 import com.gwg.shiro.web.config.jdbc.DataSourceConfig;
+import com.gwg.shiro.web.dao.RoleDao;
 import com.gwg.shiro.web.dto.RoleDto;
 import com.gwg.shiro.web.exception.BusinessException;
 import com.gwg.shiro.web.model.Role;
 import com.gwg.shiro.web.vo.RoleVo;
+import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.ArrayList;
 import java.util.List;
 
-@RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(classes = DataSourceConfig.class)
+/**
+ * debug mapper
+ * @author Administrator
+ *
+ */
+@RunWith(SpringRunner.class)
+@SpringBootTest(classes = Application.class)
 public class RoleServiceTest {
 
     private static final Logger logger = LoggerFactory.getLogger(RoleServiceTest.class);
@@ -27,8 +37,10 @@ public class RoleServiceTest {
     @Autowired
     private RoleService roleService;
 
+
     @Test
     public void testAddRole() throws BusinessException {
+
         RoleDto dto = new RoleDto();
         dto.setRoleCode("test");
         dto.setRoleName("测试");
