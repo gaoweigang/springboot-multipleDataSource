@@ -24,7 +24,7 @@ public class MultipleDataSourceAspectAdvice {
      * 切入点对连接点进行拦截的定义,该方法无方法体,主要为方便该类中其他方法使用此处配置的切入点,该方法体内容不会执行
      * 说明：包com.gwg.shiro.web.mapper中所有的类已select为前缀的方法
      */
-    @Pointcut("execution(public * com.gwg.shiro.web.dao.impl.*.add*(..))")
+    @Pointcut("execution(public * com.gwg.shiro.web.dao.*.add*(..))")
     public void writeMethod() {
     };
 
@@ -32,7 +32,7 @@ public class MultipleDataSourceAspectAdvice {
      *切入点对连接点进行拦截的定义,该方法无方法体,主要为方便该类中其他方法使用此处配置的切入点。该方法体内容不会执行
      * 说明：包com.gwg.shiro.web.mapper中所有的类已select为前缀的方法
      */
-    @Pointcut("execution(public * com.gwg.shiro.web.dao.impl.*.query*(..))")
+    @Pointcut("execution(public * com.gwg.shiro.web.dao.*.query*(..))")
     public void readMethod() {
     };
 

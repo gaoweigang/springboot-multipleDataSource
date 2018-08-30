@@ -1,6 +1,10 @@
 package com.gwg.shiro.web;
 
+import com.gwg.shiro.web.dao.RoleDao;
 import org.mybatis.spring.annotation.MapperScan;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
@@ -15,8 +19,10 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
  * 如果使用Cglib来生成代理对象，需要指定需要指定编织时间，在这里使用静态织入，即编译时织入
  * 如果使用maven来构建项目，主要在maven中配置即可
  */
-@EnableAspectJAutoProxy(proxyTargetClass = true)//在Springboot中，AOP默认是开启的，具体可以看该注解配置
+@EnableAspectJAutoProxy(proxyTargetClass = false)//在Springboot中，AOP默认是开启的，具体可以看该注解配置
 public class Application {
+
+
 
     public static void main(String[] args) {
         System.setProperty(DebuggingClassWriter.DEBUG_LOCATION_PROPERTY, "E:\\class");  //该设置用于输出cglib动态代理产生的类
